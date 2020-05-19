@@ -1,4 +1,4 @@
 variable "S3_BUCKET_NAME" {
-    type = "string"
+    type = string
     default = "merchant.saifuddin.999"
 }
